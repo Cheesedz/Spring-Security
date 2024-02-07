@@ -1,0 +1,4 @@
+app:
+  apiPrefix: localhost:8080/api
+  jwtSecret: secret123
+  jwtExpirationInMs: 3600000
