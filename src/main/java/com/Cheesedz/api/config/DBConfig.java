@@ -15,8 +15,8 @@ public class DBConfig {
     @Bean
     CommandLineRunner initDatabase(UserRepository userRepository) {
         return args -> {
-            User A = new User("Alex", "Firguson", "alex@gmail.com", "alex@gmail.com", "abc123", Role.USER);
-            logger.info("inserted record: " + userRepository.save(A));
+//            User A = new User("Alex", "Firguson", "alex@gmail.com", "alex@gmail.com", "abc123", Role.USER);
+//            logger.info("inserted record: " + userRepository.save(A));
         };
     }
 }

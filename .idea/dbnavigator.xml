@@ -20,9 +20,7 @@
     <last-used-providers />
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
-    <open-files>
-      <object connection-id="ba73a08a-3103-4a3a-9a5d-f7c35deb4548" object-ref="schemas/security/tables/user" />
-    </open-files>
+    <open-files />
   </component>
   <component name="DBNavigator.Project.DatasetFilterManager">
     <filter-actions connection-id="ba73a08a-3103-4a3a-9a5d-f7c35deb4548" dataset="ecommerce.user" active-filter-id="EMPTY_FILTER" />
